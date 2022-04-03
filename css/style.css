@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;1,300&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navigation li a:hover{
+    background-color: #ffc107;
+    border-radius: 20px;
+    transition: 2500ms;
+}
+
+
+.fa-envelope, .fa-user{
+    padding-left: 15px;
+    cursor: pointer;
+}
+
+.fa-envelope:hover{
+    color: #ffc107;
+}
+.fa-user:hover{
+    color: #ffc107;
+}
+.fa-magnifying-glass:hover{
+    color: #ffc107;
+}
+
+.nav li a{
+    font-weight: 400;
+    color: #514A4A;
+    font-size: 14px;
+}
+
+.nav button{
+    width: 75px;
+    height: 27px;
+    font-size: 10px;
+}
+
+.hot-news{
+    font-size: 12px !important;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+.fa-facebook-f{
+    color: white;
+    padding-left: 9px;
+}
+.fa-instagram{
+    color: white;
+    padding-left: 9px;
+}
+
+.fa-pinterest-p{
+    color: white;
+    padding-left: 9px;
+}
+
+.carousel-caption p{
+    font-weight: 300;
+}
+
+.carousel-caption button{
+    width: 75px;
+    height: 27px;
+    font-size: 10px;
+}
+
+.rounded-circle{
+    width: 25px;
+    height: 25px;
+}
+
+.author p{
+    font-size: 14px;
+    color: #E8E4E4;
+}
+
+.btn-secondary{
+    background-color: #F8F4F4 !important;
+    color: #A39E9E !important;
+    border: none !important;
+    width: 90px;
+    height: 24px;
+    font-size: 11px !important;
+    margin-left: 8px;
+}
+
+.category-buttons button:hover{
+    background-color: #ffc107 !important;
+    color: #ffffff !important;
+}
+
+.card{
+    border: none !important;
+    font-size: 11px;
+}
+
+.card-title{
+    font-size: 14px;
+}
+
+.card-body h5{
+    font-weight: 300;
+}
+
+.card-body p{
+    font-weight: 200;
+}
+
+.card-text img{
+    width: 20px;
+    height: 20px;
+}
+
+.card-body img{
+    margin-right: 4px;
+}
+
+.btn-group{
+    left: 10px !important;
+}
+
+.btn-group button{
+    
+    width: 130px;
+    height: 30px;
+    font-size: 12px;
+}
+
+.recent-posts{
+    width: 350px;
+    margin-left: 16px;
+}
+
+.hot-news-top{
+    width: 300px;
+    font-size: 10px;
+    color: white;
+}
+
+.hot-news-top-prev{
+    width: 10px !important;
+    opacity: 100% !important;
+}
+
+.hot-news-top-next{
+width: 10px !important;
+display: none !important;
+}
+
